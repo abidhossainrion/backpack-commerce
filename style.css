@@ -1,0 +1,90 @@
+/* setting font-family for all heading tag and paragrpah */
+
+h1, h2, h3, h4, h5.h6 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+/* Setting header width */
+
+header {
+    width: 500px;
+}
+
+/* Setting logo width */
+
+.logo {
+    width: 100%;
+}
+
+.flex {
+    margin-left: 10em;
+}
+
+.flex ul li {
+    padding: 20px;
+    margin-left: 2em;
+}
+
+.flex ul li a {
+    font-weight: bold;
+}
+
+/* Seeting image width */
+
+.image-width {
+    width: 100%;
+}
+
+.backpack-header-1 {
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.backpack-header-2 {
+    font-weight: bold;
+    font-size: 80px;
+    color: #76C27E;
+}
+
+/* designing a button */
+
+#button-design {
+    width: 170px;
+    height: 60px;
+    border-radius: 3em;
+    margin-bottom: 20px;
+}
+
+.button-image {
+    height: 36px;
+}
+
+.details_of_backpack {
+    width: 357px;
+}
+
+.panda-card {
+    border: 0;
+}
+
+.panda-card-footer {
+    background-color: white;
+    border: 0;
+}
+
+.footer_entity {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.footer_img img {
+    width: 300px;
+    margin-left: 3em;
+}
+
+.services-img img {
+    width: 100%;
+    margin-top: 10px;
+}
